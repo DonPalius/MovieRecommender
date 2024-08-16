@@ -1,3 +1,5 @@
+# MovieRecommender
+
 # API KEY
 - Go https://www.themoviedb.org/ and create an API key. Then you can paste it in the react js application.
 - In the react js application, you need to create a .env file which contains the line : "REACT_APP_API_KEY=[your themoviedb api key]"; put this .env file in the folder my-app.
